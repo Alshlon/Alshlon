@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything 
 - 📫 How to reach me: https://www.linkedin.com/in/alshlon-banks-25573a10b/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Jazz music 
+- ⚡ Fun fact: I love Jazz music  
 -->
