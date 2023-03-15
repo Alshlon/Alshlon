@@ -21,8 +21,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[twitter]: https://twitter.com/alshlon
-[linkedin]: https://[linkedin.com/in/alshlonb
+[twitter]: https://twitter.com/alshlon 
+[linkedin]: https://[linkedin.com/in/alshlonb 
 
 
 Here are some ideas to get you started:
